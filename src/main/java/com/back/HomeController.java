@@ -12,7 +12,7 @@ public class HomeController {
     public String home() {
         return """
                 <h1>Welcome to the Home Page of JooKwonYoung</h1>
-                                <p>This is a Demo Spring Boot application.</p>
+                                <p>This is a Demo application.</p>
                 """;
     }
 }
